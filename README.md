@@ -52,63 +52,77 @@ I'm a versatile web developer skilled in **HTML**, **CSS**, **JavaScript**, **Re
 
 ### [Esaaka Templates Store](https://esaaka-templates-store.vercel.app/)
 **Description**: A store offering high-performance templates for portfolios, businesses, and e-commerce.  
+
 **Key Features**:
 - Secure payment integration with PayPal and Stripe.
 - Curated collection of responsive, high-quality templates.
-- Dark and light mode toggle for enhanced user experience.  
+- Dark and light mode toggle for enhanced user experience.
+
 **Technologies**: React, PayPal, Stripe
 
 ### [Face Detection App](https://detectfacesonimage.netlify.app/)
 **Description**: A smart application that allows users to upload images and detect faces using the Clarifai API.  
+
 **Key Features**:
 - User-friendly React frontend for seamless image uploads.
 - Node.js backend for efficient image processing.
 - PostgreSQL database for storing user data and processed images.
 - Secure authentication with bcrypt hashing.
-- Containerized with Docker for easy deployment.  
+- Containerized with Docker for easy deployment.
+
 **Technologies**: React, Node.js, PostgreSQL, Clarifai API, Docker, bcrypt
 
 ### [Esaaka Clothing](https://esaaka-clothing.netlify.app/)
 **Description**: A React-based e-commerce platform for browsing and purchasing curated clothing items.  
+
 **Key Features**:
 - Product search for quick item discovery.
 - Secure payment processing with Stripe integration.
 - Smooth navigation using React Router.
-- Firebase authentication for secure user logins.  
+- Firebase authentication for secure user logins.
+
 **Technologies**: React, React Router, Stripe, Firebase
 
 ### [Discover Coffee Shops Near You](https://discover-cafes-chi.vercel.app/)
-**Description**: A Next.js app helping users find nearby coffee shops with rich details and visuals.  
+**Description**: A Next.js app helping users find nearby coffee shops with rich details and visuals. 
+
 **Key Features**:
 - Geolocation APIs for locating nearby coffee shops.
 - Airtable API for managing upvote data.
 - Unsplash integration for high-quality images.
-- Foursquare API for detailed coffee shop information (locations, hours, reviews).  
+- Foursquare API for detailed coffee shop information (locations, hours, reviews).
+
 **Technologies**: Next.js, Geolocation APIs, Airtable, Unsplash, Foursquare
 
 ### [Interstellar Missions Dashboard](http://34.238.40.225:8000/)
 **Description**: A React and Node.js app for managing and visualizing SpaceX mission data.  
+
 **Key Features**:
 - Real-time mission data fetched via SpaceX API.
 - MongoDB for efficient storage and retrieval of mission records.
 - Docker containerization for portability.
-- Hosted on AWS EC2 for scalability and reliability.  
+- Hosted on AWS EC2 for scalability and reliability.
+  
 **Technologies**: React, Node.js, MongoDB, SpaceX API, Docker, AWS EC2
 
 ### [Blog App](https://blog-app-sigma-pink.vercel.app/)
 **Description**: A Next.js blog platform sharing web development insights and articles.  
+
 **Key Features**:
 - Static Site Generation (SSG) for fast load times and SEO.
 - Server-Side Rendering (SSR) for dynamic, up-to-date content.
-- Incremental Static Regeneration (ISR) for balancing performance and freshness.  
+- Incremental Static Regeneration (ISR) for balancing performance and freshness.
+
 **Technologies**: Next.js, SSG, SSR, ISR
 
 ### [Monster Search](https://demosus.github.io/monster-search/)
 **Description**: A React app for exploring and searching a dynamic list of monsters from an external API.  
+
 **Key Features**:
 - Dynamic monster list fetched from an API.
 - Search functionality for quick monster lookups.
-- Interactive, real-time user experience.  
+- Interactive, real-time user experience.
+
 **Technologies**: React, External APIs
 
 ---
