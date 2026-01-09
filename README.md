@@ -49,6 +49,20 @@ I'm a versatile web developer skilled in **HTML**, **CSS**, **JavaScript**, **Re
 
 **Technologies:** React 19, Vite, TypeScript, Tailwind CSS, Python, FastAPI, SQLModel, JWT, Docker, GitHub Actions
 
+### [Esaaka Dev Solutions – Full Stack Portfolio Platform](https://esaaka-dev-solutions.vercel.app)
+**Description:** A modern portfolio platform showcasing diverse projects including AI apps, e-commerce solutions, and geolocation tools. Designed to highlight full stack capabilities with seamless frontend and backend integration.
+
+**Key Features:**
+- Showcases multiple projects (AI face detection, e-commerce, geolocation tools)
+- Responsive Next.js frontend with Tailwind CSS styling
+- API integrations (Clarifai, Stripe, SpaceX) for real-world functionality
+- Secure authentication and middleware setup
+- Optimized fonts and performance with Vercel deployment
+- Containerized with Docker for easy development and deployment
+
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Node.js, Prisma, Docker, Stripe API, Clarifai API, Vercel
+
+
 
 ### [Esaaka Templates Store](https://esaaka-templates-store.vercel.app/)
 **Description**: A store offering high-performance templates for portfolios, businesses, and e-commerce.  
