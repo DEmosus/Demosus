@@ -37,6 +37,18 @@ I'm a versatile web developer skilled in **HTML**, **CSS**, **JavaScript**, **Re
 ---
 
 ## 📂 Portfolio Projects
+### [CivicNavigator – Full Stack Civic Engagement Platform](https://github.com/DEmosus/CivicNavigatorBot)
+**Description:** A platform enabling residents to report local issues, chat with an AI civic bot, and track incident progress, while staff manage and respond to reports.
+
+**Key Features:**
+- AI-powered civic bot for real-time interaction
+- Incident reporting & status tracking
+- Role-based access for residents and staff
+- Secure JWT authentication & REST API
+- Dockerized full stack with CI/CD pipeline
+
+**Technologies:** React 19, Vite, TypeScript, Tailwind CSS, Python, FastAPI, SQLModel, JWT, Docker, GitHub Actions
+
 
 ### [Esaaka Templates Store](https://esaaka-templates-store.vercel.app/)
 **Description**: A store offering high-performance templates for portfolios, businesses, and e-commerce.  
