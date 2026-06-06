@@ -86,7 +86,7 @@ I'm a versatile web developer skilled in **HTML**, **CSS**, **JavaScript**, **Re
 
 **Technologies**: React, Node.js, PostgreSQL, Clarifai API, Docker, bcrypt
 
-### [Esaaka Clothing](https://esaaka-clothing.netlify.app/)
+### [Esaakas Clothing](https://esaakasclothing.netlify.app/)
 **Description**: A React-based e-commerce platform for browsing and purchasing curated clothing items.  
 
 **Key Features**:
